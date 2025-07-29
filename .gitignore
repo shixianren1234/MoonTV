@@ -37,6 +37,9 @@ yarn-error.log*
 next-env.d.ts
 
 # next-sitemap
-robots.txt
 sitemap.xml
 sitemap-*.xml
+
+# generated files
+src/lib/runtime.ts
+public/manifest.json
